@@ -5,3 +5,5 @@ A random ASCII Roguelike I'm programming out of boredom.
 This Roguelike uses TCODLIBPY, and follows the roguelike tutorial @ https://rogueliketutorials.com/tutorials/tcod/v2
 
 feel free to mod. idc
+
+Currently in progress right now, but releases will start when I finish the tutorial.
